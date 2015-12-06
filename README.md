@@ -1,0 +1,1 @@
+# platforme_hardware_qcom_camera
